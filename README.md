@@ -1,6 +1,6 @@
 # Segmentation-Self-Driving-Cars
 
-Task : Task was to perform semantic segmentation on a dataset similar to cityscapes.
+Task : Task was to perform semantic segmentation on camvid data.
 
 Model Used : I used U-net kind of architecture to achieve the segmentation . The network is called Xception Unet which is computationally less expensive as compared to regular      Unet model.
 
